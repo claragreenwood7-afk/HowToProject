@@ -1,1 +1,29 @@
-*{background-color:aqua}
+*{
+    background-color: #E8CEBF
+}
+
+h1 {
+    text-align: center;
+    color: #4F4846;
+    font-size: 2rem;
+}
+
+h3 {
+    color: #266150;
+}
+
+h4 {
+    color: #4F4846;
+}
+
+li {
+    color: #266150
+}
+
+h5 {
+    color: #FDF8F5
+}
+
+h6 {
+    color: #FDF8F5
+}
